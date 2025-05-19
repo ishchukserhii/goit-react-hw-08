@@ -1,3 +1,6 @@
+.formWrapper {
+  padding: 100px 30px 20px 30px;
+}
 .box {
   display: flex;
   flex-direction: column;
