@@ -1,0 +1,22 @@
+.box{
+    display: flex;
+    border: 1px solid;
+    border-radius: 5px;
+    height: 100px;
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+    align-content: start;
+    margin: 20px;
+}
+.button{
+    height: 50px;
+    margin-right: 10px;
+}
+.list{
+    padding:20px;
+}
+.item{
+    justify-self: start;
+    padding: 5px;
+}

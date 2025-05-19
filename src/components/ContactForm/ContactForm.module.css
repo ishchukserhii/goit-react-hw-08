@@ -1,0 +1,19 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  border-radius: 5px;
+  min-height: 200px;
+  width: 400px;
+  margin: 20px;
+  padding: 20px;
+}
+.buttom {
+  margin-top: 20px;
+  width: 200px;
+  align-self: center;
+}
+.label {
+  display: flex;
+  justify-content: flex-start;
+}
